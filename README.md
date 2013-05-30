@@ -1,6 +1,5 @@
-
 Please tell us how you use ACRA
-===============================
+=============================== 
 
 In order to focus future developments on what is really important to you, please [take this survey](https://spreadsheets.google.com/viewform?hl=en&formkey=dDV5ek03OS1SOWNlZlBxNkFXbV9kSmc6MQ#gid=0)!
 
